@@ -6,3 +6,7 @@ body {
 .container {
   margin: auto auto;
 }
+
+img {
+  border-radius: 50%;
+}

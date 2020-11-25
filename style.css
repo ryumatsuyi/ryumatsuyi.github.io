@@ -5,9 +5,11 @@ body {
 
 .container {
   margin: auto auto;
+  text-align: centre;
 }
 
 img {
   border-radius: 50%;
   height: 500px;
+  width: 500px;
 }
